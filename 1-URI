@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "description": "Pizzapolis test NFT 3 number 0 has no traits",
+    "image": "https://imgur.com/a/MARMFEA",
+    "name": "PTP3-C 0"
+  },
+  {
+    "id": 1,
+    "description": "Pizzapolis test NFT 3 number 1 has no traits",
+    "image": "https://imgur.com/a/MARMFEA",
+    "name": "PTP3-C 1"
+  },
+  {
+    "id": 2,
+    "description": "Pizzapolis test NFT 3 number 2 has no traits",
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "PTP3-C 2"
+  }
+]
